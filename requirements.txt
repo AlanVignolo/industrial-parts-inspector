@@ -1,3 +1,16 @@
-fastapi
-uvicorn
-opencv-python-headless
+# Core API
+fastapi # Web framework for building APIs
+uvicorn # ASGI server for running FastAPI applications
+pydantic # Data validation and settings management
+
+# Computer Vision
+opencv-python-headless # OpenCV library for image processing (headless version for server environments)
+
+# Dataset augmentation (Phase 1)
+albumentations # Provide a wide range of transformations for enhancing training datasets
+
+# Configuration
+python-dotenv # Load environment variables from a .env file
+
+# Testing
+pytest # Testing framework for writing and running tests
