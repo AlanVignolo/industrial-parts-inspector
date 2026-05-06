@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//c/Users/alanv/projects/**)",
-      "Read(///wsl.localhost/ubuntu/home/alanv/**)",
-      "Read(///wsl.localhost/ubuntu/home/**)"
-    ]
-  }
-}
